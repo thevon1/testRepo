@@ -1,0 +1,29 @@
+.boxOne {
+	background-color: green;
+}
+
+.boxTwo {
+	background-color: orange;
+}
+
+.boxThree {
+	background-color: gray;
+}
+
+.boxFour {
+	background-color: lightblue;
+}
+
+.flexBox {
+	background-color: red;
+	display: flex;
+	flex-direction: column;
+}
+
+html, body {
+	width: 100%;
+}
+
+html {
+	height: 100%;
+}
