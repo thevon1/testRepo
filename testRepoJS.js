@@ -1,5 +1,5 @@
 
 
-function getColor() {
-	return orange;
+var a = function () {
+	return "Hey There!";
 }
