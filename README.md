@@ -1,2 +1,1 @@
-# testRepo
-this is to test push and pull requests
+This is my test repo. This thing will help me master push and pull requests
